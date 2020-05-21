@@ -1,8 +1,6 @@
-# Project 4 Repo
+# Project 4 Learning Objectives
 
-Repo Start-State:
-
-1. README.md
-2. .gitignore
-3. to-do.html, to-do.css, to-do.js
-4. Animal.js
+* Build a To-Do app that uses the Web Storage API
+* The Web Storage API lets browsers store key/value pairs locally, to create a persistent data store
+* ES6 Class Types: The Basics
+* ES6 Class Types: Inheritance
