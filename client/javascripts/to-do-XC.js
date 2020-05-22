@@ -34,6 +34,12 @@ let controller = function() {
     }
   });
 
+  //Clear local storage and the list by clicking the "clear" button
+  $(".comment-clear button").on("click", function(event) {
+    localStorage.clear();
+    $(".comments").html("");
+  });
+
 };
 
 //Add previously stored item from local storage to the list if any
